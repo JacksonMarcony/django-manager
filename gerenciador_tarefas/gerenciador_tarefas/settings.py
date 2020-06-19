@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'gerenciador_tarefas',
-        'USER': 'root',
+        'USER': 'jackson',
         'PASSWORD': 'root',
         'HOST': 'localhost',
         'PORT': '3306'
